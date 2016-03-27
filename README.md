@@ -4,6 +4,8 @@
 
 ## 系統需求
 
+XDDDDDDDDDDDDDDDDDDDDDDDDD
+
 **Ruby 2.2以上**
 
 **PostgreSQL 9.4以上**
